@@ -1,0 +1,14 @@
+C:\Users\Jimi\Desktop\koulu\backend\statsgetter\bin\Debug\netcoreapp2.1\statsgetter.deps.json
+C:\Users\Jimi\Desktop\koulu\backend\statsgetter\bin\Debug\netcoreapp2.1\statsgetter.runtimeconfig.json
+C:\Users\Jimi\Desktop\koulu\backend\statsgetter\bin\Debug\netcoreapp2.1\statsgetter.runtimeconfig.dev.json
+C:\Users\Jimi\Desktop\koulu\backend\statsgetter\bin\Debug\netcoreapp2.1\statsgetter.dll
+C:\Users\Jimi\Desktop\koulu\backend\statsgetter\bin\Debug\netcoreapp2.1\statsgetter.pdb
+C:\Users\Jimi\Desktop\koulu\backend\statsgetter\obj\Debug\netcoreapp2.1\statsgetter.csprojAssemblyReference.cache
+C:\Users\Jimi\Desktop\koulu\backend\statsgetter\obj\Debug\netcoreapp2.1\statsgetter.csproj.CoreCompileInputs.cache
+C:\Users\Jimi\Desktop\koulu\backend\statsgetter\obj\Debug\netcoreapp2.1\statsgetter.RazorAssemblyInfo.cache
+C:\Users\Jimi\Desktop\koulu\backend\statsgetter\obj\Debug\netcoreapp2.1\statsgetter.RazorAssemblyInfo.cs
+C:\Users\Jimi\Desktop\koulu\backend\statsgetter\obj\Debug\netcoreapp2.1\statsgetter.AssemblyInfoInputs.cache
+C:\Users\Jimi\Desktop\koulu\backend\statsgetter\obj\Debug\netcoreapp2.1\statsgetter.AssemblyInfo.cs
+C:\Users\Jimi\Desktop\koulu\backend\statsgetter\obj\Debug\netcoreapp2.1\statsgetter.RazorTargetAssemblyInfo.cache
+C:\Users\Jimi\Desktop\koulu\backend\statsgetter\obj\Debug\netcoreapp2.1\statsgetter.dll
+C:\Users\Jimi\Desktop\koulu\backend\statsgetter\obj\Debug\netcoreapp2.1\statsgetter.pdb
